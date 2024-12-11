@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-  
+    git clone https://github.com/shivam1750/tensorgo_sts_bot.git
     ```
 
 2. Create and activate a virtual environment:
