@@ -12,7 +12,7 @@ pip install -r requirements.txt
 - **Streamlit Interface**: Provides an interactive web-based UI.
 - **Session Management**: Maintains conversation history during a session.
 
-
+  
 ### Installation
 
 1. Clone the repository:
