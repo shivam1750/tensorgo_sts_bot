@@ -42,6 +42,6 @@ Run the Streamlit application:
 The application uses the following configuration for the LLM:
 
 - **Temperature**: 1
-- **Top-p**: 0.95
+- **Top-p**: 0.95     #above >9
 - **Top-k**: 64
 - **Max Output Tokens**: 8192
