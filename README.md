@@ -1,4 +1,4 @@
-# tensorgo_sts_bot 
+# sts_bot 
  
 ### To Download Requirement 
 ```
